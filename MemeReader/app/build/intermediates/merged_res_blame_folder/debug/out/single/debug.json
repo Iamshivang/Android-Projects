@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable-v24_white_border_shape_button_rounded.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable-v24\\white_border_shape_button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\layout_activity_base.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\layout_activity_sing_in.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\layout\\activity_sing_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\layout_dialog_progress.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable-v24_shape_button_rounded.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable-v24\\shape_button_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\xml_activity_splash_screen_scene.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\xml\\activity_splash_screen_scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable_boss.png.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable\\boss.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "mr.vaibhav.memereader.app-merged_res-35:/drawable-v24_baseline_logout_24.xml.flat",
+        "source": "mr.vaibhav.memereader.app-main-37:/drawable-v24/baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable-v24_bg.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable-v24\\bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable_ripple_effect.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable\\ripple_effect.xml"
+    },
+    {
+        "merged": "mr.vaibhav.memereader.app-merged_res-35:/menu_menu.xml.flat",
+        "source": "mr.vaibhav.memereader.app-main-37:/menu/menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable-v24_ic_black_color_back_24dp.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable-v24\\ic_black_color_back_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable_meme_doge_dog.png.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable\\meme_doge_dog.png"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-merged_res-35:\\drawable-v24_ic_sign_background.jpg.flat",
+        "source": "C:\\Users\\Shivang Yadav\\.gradle\\daemon\\7.4\\mr.vaibhav.memereader.app-main-37:\\drawable-v24\\ic_sign_background.jpg"
+    }
+]
